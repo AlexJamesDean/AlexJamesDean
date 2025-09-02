@@ -43,7 +43,7 @@ EFT UK is a proof of concecpt allow myself to show that I can edit child themes 
 ### Get to know me
 
 If you like the openness and honesty provided in this readme then feel free to reach out:
-Discord: AlexJamesDean#6870
+Discord: AJTheDev
 Email: Alex@AlexJamesDean.co.uk
 
 
