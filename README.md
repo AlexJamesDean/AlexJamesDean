@@ -44,9 +44,11 @@ EFT UK is a proof of concecpt allow myself to show that I can edit child themes 
 
 If you like the openness and honesty provided in this readme then feel free to reach out:
 Discord: AJTheDev
-Email: Alex@AlexJamesDean.co.uk
+Email: AJ@AJThe.Dev
 
-
+I fix the bugs other devs gaslight you about.
+A I tools, Five M systems, automation pipelines.
+Build it, break it, resurrect it: 👉 https://AJThe.Dev
 <!--
 **AlexJamesDean/AlexJamesDean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
